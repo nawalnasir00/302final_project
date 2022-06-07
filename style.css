@@ -1,0 +1,57 @@
+h1 {
+	color: white;
+}
+
+.table {
+	background-color: lightgreen;
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	height: 300px;
+}
+
+.caption1 {
+	color: white;
+	text-align: center;
+
+}
+
+.personal {
+	padding: 10px;
+	border: 1px solid black;
+	border: 3px solid blue;
+	text-align: center;
+}
+
+.picture {
+
+	text-align: center;
+
+}
+
+.table {
+	text-align: center;
+	width: 600px;
+}
+
+.section {
+	text-align: left;
+}
+
+body {
+	text-align: center;
+}
+
+p {
+	text-align: left;
+}
+
+th {
+	border: 1px solid black;
+	text-align: left;
+}
+
+td {
+	border: 1px solid black;
+	text-align: left;
+}
